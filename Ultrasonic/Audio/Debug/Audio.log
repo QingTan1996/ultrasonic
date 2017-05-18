@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\tanqing\documents\visual studio 2015\projects\audio\audio\main.cpp(35): warning C4244: “=”: 从“double”转换到“char”，可能丢失数据
+c:\users\tanqing\documents\visual studio 2015\projects\audio\audio\main.cpp(36): warning C4309: “=”: 截断常量值
+c:\users\tanqing\documents\visual studio 2015\projects\audio\audio\main.cpp(44): warning C4309: “=”: 截断常量值
+c:\users\tanqing\documents\visual studio 2015\projects\audio\audio\main.cpp(45): warning C4244: “=”: 从“double”转换到“char”，可能丢失数据
+c:\users\tanqing\documents\visual studio 2015\projects\audio\audio\main.cpp(53): warning C4244: “=”: 从“double”转换到“char”，可能丢失数据
+c:\users\tanqing\documents\visual studio 2015\projects\audio\audio\main.cpp(54): warning C4244: “=”: 从“double”转换到“char”，可能丢失数据
+  Audio.vcxproj -> C:\Users\tanqing\documents\visual studio 2015\Projects\Audio\Debug\Audio.exe
